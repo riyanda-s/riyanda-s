@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm RCS</h1>
-<h3 align="center">I am an Informatics student at Sepuluh Nopember Institute of Technology, 
-  <br> with an interest in Cyber Security and Web Development.</h3>
+<h1 align="center">Hi 👋, I'm Riyanda S</h1>
+<h3 align="center">I am a student 
+  <br> with an interest in Cyber Security.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rcsinambela&label=Profile%20views&color=0e75b6&style=flat" alt="rcsinambela" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyanda-s&label=Profile%20views&color=0e75b6&style=flat" alt="riyanda-s" /> </p>
 
 
 ### Blogs posts
@@ -23,15 +23,15 @@
 </p>
 
 <p style="display: block; float: left; margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rcsinambela&show_icons=true&locale=en&layout=compact" alt="rcsinambela" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyanda-s&show_icons=true&locale=en&layout=compact" alt="riyanda-s" />
 </p>
 
 <p style="display: block; float: left; margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rcsinambela&show_icons=true&locale=en" alt="rcsinambela" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riyanda-s&show_icons=true&locale=en" alt="riyanda-s" />
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rcsinambela/rcsinambela/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rcsinambela/rcsinambela/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rcsinambela/rcsinambela/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riyanda-s/riyanda-s/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riyanda-s/riyanda-s/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/riyanda-s/riyanda-s/output/github-contribution-grid-snake.svg">
 </picture>        
