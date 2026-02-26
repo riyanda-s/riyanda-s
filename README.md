@@ -16,10 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/riyanda-cavin-sinambela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riyanda-cavin-sinambela/" height="30" width="40" /></a>
-<a href="https://instagram.com/rynd_snmbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rynd_snmbl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/riyanda-cavin-sinambela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/en/riyanda-s/" height="30" width="40" /></a>
 <a href="https://medium.com/@novusnatus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@novusnatus" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sinambela_rc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sinambela_rc" height="30" width="40" /></a>
 </p>
 
 <p style="display: block; float: left; margin-right: 10px;">
