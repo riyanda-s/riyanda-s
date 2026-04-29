@@ -1,32 +1,22 @@
+# Hello 👋, I'm Riyan
+### Cybersecurity Analyst
 
-<h1 align="center">Hi 👋, I'm Riyanda S</h1>
-<h3 align="center">I am a student 
-  <br> with an interest in Cyber Security.</h3>
+I'm interested in technology and always eager to learn new things.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyanda-s&label=Profile%20views&color=0e75b6&style=flat" alt="riyanda-s" /> </p>
+## Contact Me
+<p><a href="https://www.linkedin.com/in/riyanda-s/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://cybersec-portfolio-sandy.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://novusnatus.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a> </p>
 
+## GitHub Stats
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Nambah Storage VM VirtualBox di Linux Server Tanpa Ribet](https://novusnatus.medium.com/nambah-storage-vm-virtualbox-di-linux-server-tanpa-ribet-36c8d6aa389c?source=rss-93ecbc591530------2)
-- [Web Exploitation in Vuln Lab](https://novusnatus.medium.com/web-exploitation-in-vuln-lab-2b275ae77f6d?source=rss-93ecbc591530------2)
-- [Blind Stored Cross-Site Scripting &lpar;XSS&rpar; on Knowledge Module](https://novusnatus.medium.com/blind-stored-cross-site-scripting-xss-on-knowledge-module-b54560c74b81?source=rss-93ecbc591530------2)
-- [Hidden in Plain Sight – Revealing the Secret Inside an Ordinary JPG](https://novusnatus.medium.com/hidden-in-plain-sight-revealing-the-secret-inside-an-ordinary-jpg-4fa564a9170a?source=rss-93ecbc591530------2)
-<!-- BLOG-POST-LIST:END -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanda-s&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/riyanda-cavin-sinambela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/en/riyanda-s/" height="30" width="40" /></a>
-<a href="https://medium.com/@novusnatus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@novusnatus" height="30" width="40" /></a>
-</p>
+## GitHub Trophies
 
-<p style="display: block; float: left; margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyanda-s&show_icons=true&locale=en&layout=compact" alt="riyanda-s" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=riyanda-s" alt="trophy" />
 
-<p style="display: block; float: left; margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyanda-s&show_icons=true&locale=en" alt="riyanda-s" />
-</p>
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyanda-s&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riyanda-s/riyanda-s/output/github-contribution-grid-snake-dark.svg">
