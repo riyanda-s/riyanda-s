@@ -9,7 +9,6 @@ I'm interested in technology and always eager to learn new things.
 - [Web Exploitation in Vuln Lab](https://novusnatus.medium.com/web-exploitation-in-vuln-lab-2b275ae77f6d?source=rss-93ecbc591530------2)
 - [Blind Stored Cross-Site Scripting &lpar;XSS&rpar; on Knowledge Module](https://novusnatus.medium.com/blind-stored-cross-site-scripting-xss-on-knowledge-module-b54560c74b81?source=rss-93ecbc591530------2)
 - [Hidden in Plain Sight – Revealing the Secret Inside an Ordinary JPG](https://novusnatus.medium.com/hidden-in-plain-sight-revealing-the-secret-inside-an-ordinary-jpg-4fa564a9170a?source=rss-93ecbc591530------2)
-- [Riddle Registry – The Hidden Flag Inside PDF Metadata](https://novusnatus.medium.com/riddle-registry-the-hidden-flag-inside-pdf-metadata-5b53100b1f3a?source=rss-93ecbc591530------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact Me
