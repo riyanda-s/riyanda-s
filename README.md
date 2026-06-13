@@ -18,10 +18,6 @@ I'm interested in technology and always eager to learn new things.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanda-s&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
 
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=riyanda-s" alt="trophy" />
-
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyanda-s&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
