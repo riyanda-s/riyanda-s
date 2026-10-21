@@ -1,5 +1,5 @@
 # Hello 👋, I'm Riyan
-### Cybersecurity Analyst
+### Cybersecurity Engineer
 
 I'm interested in technology and always eager to learn new things.
 
